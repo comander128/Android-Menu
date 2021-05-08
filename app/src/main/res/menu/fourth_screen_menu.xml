@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/first_screen"
+        android:iconTint="@color/white"
+        android:title="first_screen"
+        app:showAsAction="always"/>
+
+
+    <item
+        android:title="screens"
+        >
+        <menu>
+            <item
+                android:id="@+id/second_screen"
+                android:icon="@drawable/ic_baseline_mobile_screen_share_24"
+                android:iconTint="@color/white"
+                android:title="second_screen" />
+            <item
+                android:id="@+id/fourth_screen"
+                android:icon="@drawable/ic_baseline_mobile_screen_share_24"
+                android:iconTint="@color/white"
+                android:title="third_screen" />
+
+        </menu>
+
+    </item>
+
+
+
+</menu>

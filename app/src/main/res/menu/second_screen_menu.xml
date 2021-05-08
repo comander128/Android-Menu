@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/first_screen"
+        android:title="first_screen" />
+    <item
+        android:id="@+id/third_screen"
+        android:title="third_screen" />
+    <item
+        android:id="@+id/fourth_screen"
+        android:title="fourth_screen" />
+</menu>
